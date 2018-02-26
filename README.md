@@ -1,4 +1,4 @@
-# 38. MATLAB code for convolution code (2, 1, 7) decoding with g1 = 110101 and g2 =  111011  and  the  analysis  of  %  of  error  detection  and  correction  using sequential decoding with threshold upto 5
+# MATLAB code for convolution code (2, 1, 7) decoding with g1 = 110101 and g2 =  111011  and  the  analysis  of  %  of  error  detection  and  correction  using sequential decoding with threshold upto 5
 
 This repository has codes pertaining to the above question written in MATLAB<br>
 
@@ -18,12 +18,12 @@ To install MATLAB follow the official site instructions <a>https://in.mathworks.
 1. Clone the repository
 
     ```
-        git clone http://gitlab.example.com/16CO206/16CO143-16CO206.git
+        git clone https://github.com/shushantkumar/Convolutional-Encoding-Decoding.git
     ```
 2. Move into the directory  
     
     ```
-        cd 16CO143-16CO206/
+        cd Convolutional-Encoding-Decoding/
     ```       
 3. To run the the program execute file ex.m passing parameter as 4 
 
