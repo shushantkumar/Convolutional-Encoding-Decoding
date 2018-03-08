@@ -17,6 +17,7 @@ n = n/2;
 
 % j iterates through all the possible codewords as it receives
 for j = 1 : m
+    state = [0 0 0 0 0 0];
 % i iterates from 1 to n (n = 10 for 4bit dataword) transitions between atates through the trellis diagram
 for i = 1: n
     % iter points to the specific row in the matr table for the current
